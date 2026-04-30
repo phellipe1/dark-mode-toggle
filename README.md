@@ -1,15 +1,32 @@
-# Dark Mode Toggle
+# 🌙 Dark Mode UI
 
-Projeto simples de alternância entre tema claro e escuro usando JavaScript.
+A simple project focused on implementing a dark/light mode toggle using CSS variables and improving UI layout.
 
-## 🚀 Tecnologias
-- HTML
-- CSS
-- JavaScript
+## 🚀 Features
 
-## 💡 Funcionalidades
-- Alternância entre tema claro/escuro
-- Persistência com localStorage
+* Toggle between light and dark mode
+* CSS variables for theming
+* Responsive card layout
+* Smooth hover effects
 
-## ▶️ Como usar
-Abra o arquivo index.html no navegador ou utilize Live Server.
+## 🛠️ Technologies
+
+* HTML
+* CSS (Flexbox + Variables)
+* JavaScript
+
+## 🎯 What I practiced
+
+* Creating a theme system with CSS variables
+* Improving layout using Flexbox
+* Basic UI design principles (spacing, hierarchy, contrast)
+
+
+## ▶️ How to run
+
+1. Clone the repository
+2. Open `index.html` in your browser
+
+## 📌 Notes
+
+This project was built to practice UI fundamentals and dark mode implementation.
